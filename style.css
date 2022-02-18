@@ -1,6 +1,8 @@
-h3{
+.headings{
     color: aqua;
+    width: 50%;
+    display: inline-block;
 }
 img{
-    width: 30%;
+    width: 30px;
 }
